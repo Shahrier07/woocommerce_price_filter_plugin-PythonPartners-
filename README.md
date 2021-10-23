@@ -1,1 +1,2 @@
-# woocommerce_price_filter_plugin-PythonPartners-
+# woocommerce_price_filter_plugin(PythonPartners)
+# Filter products in Shop page
